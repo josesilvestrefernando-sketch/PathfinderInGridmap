@@ -36,6 +36,3 @@ This project is created as a sample implementation to demonstrate:
 
 * This is a sample project intended for educational purposes.
 * The implementation focuses on clarity rather than optimization.
-
-* Add a **“How the algorithm works” section (A*, BFS, etc.)** based on your actual code 👍
-
